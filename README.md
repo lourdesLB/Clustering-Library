@@ -1,8 +1,8 @@
 # Aprendizaje Automático. Clustering
 
 Autores: 
--	Pablo Reina Jiménez.            Datos de contacto: pabreijim1, pabreijim1@alum.us.es  
--	María Lourdes Linares Barrera.  Datos de contacto: marlinbar, marlinbar@alum.us.es  
+-	Pablo Reina Jiménez.            Datos de contacto: pabreijim1, pabreijim1 ARROBA alum.us.es  
+-	María Lourdes Linares Barrera.  Datos de contacto: marlinbar, marlinbar ARROBA alum.us.es  
 
 ## **Lanzamiento del proyecto**
 Para lanzar el proyecto contamos con dos opciones.
