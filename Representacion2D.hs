@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 -- Autores: 
--- 	Pablo Reina Jimenez.            Datos de contacto: pabreijim1, pabreijim1@alum.us.es  
--- 	Maria Lourdes Linares Barrera.  Datos de contacto: marlinbar, marlinbar@alum.us.es 
+-- 	Pablo Reina Jimenez.            Datos de contacto: pabreijim1, pabreijim1 ARROBA alum.us.es  
+-- 	Maria Lourdes Linares Barrera.  Datos de contacto: marlinbar, marlinbar ARROBA alum.us.es 
 -------------------------------------------------------------------------------
 
 module Representacion2D(
